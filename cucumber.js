@@ -1,4 +1,4 @@
-const common = `
+const commom = `
 --require setup/assertions.js
 --require setup/hooks.js
 --require step-definitions/**/*.step.js
